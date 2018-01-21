@@ -77,3 +77,18 @@ Next n lines: the n x n board just after your move and after gravity has been ap
 any fruits fall into holes created by your move taking away some fruits (like in
 figure 3).
 
+## Example 1:
+
+For this input.txt:
+
+2
+3
+123.6
+01
+21
+
+one possible correct output.txt is:
+
+B1
+0*
+2*

@@ -1,5 +1,3 @@
-package com.example.student.reimbursement;
-
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
@@ -21,8 +19,8 @@ public class FruitRage {
 	private static int[][] input = null;
 	private static int[][] visited = null;
 	private static char[][] output = null;
-	private static String inputFilePath = "/Users/shravya/Documents/workspace-sts-3.9.0.RELEASE/StudentReimbursement/src/test/java/com/example/student/reimbursement/input1.txt";
-	private static String outputFilePath = "/Users/shravya/Documents/workspace-sts-3.9.0.RELEASE/StudentReimbursement/src/test/java/com/example/student/reimbursement/output.txt";
+	private static String inputFilePath = "input1.txt";
+	private static String outputFilePath = "output.txt";
 	private static int[] dx = { -1, 1, 0, 0 };
 	private static int[] dy = { 0, 0, -1, 1 };
 	private static int depthLimit = 0;

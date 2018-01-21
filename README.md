@@ -81,14 +81,14 @@ figure 3).
 
 For this input.txt:
 
-2
-3
-123.6
-01
-21
+2<br />
+3<br />
+123.6<br />
+01<br />
+21<br />
 
 one possible correct output.txt is:
 
-B1
-0*
+B1<br />
+0*<br />
 2*
